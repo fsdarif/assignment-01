@@ -1,0 +1,235 @@
+body{
+    font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+.section-1{
+    height: 100vh;
+}
+.half-width-content{
+    width: 40%;
+    float: left;
+    margin-left: 7%;
+    margin-top: 8%;
+    padding-left: 2%;
+}
+h1{
+    font-size: 60px;
+    line-height: 40px;
+    color: #363958;
+    line-height: 30px;
+}
+.name-highlight{
+font-size: 60px;
+line-height: 1px;
+
+color: #F46060;
+}
+p{
+    color: #313131;
+    font-size: 15px;
+    padding-bottom: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(to bottom, #FF8063 , #F46060);
+    color: white;
+    padding: 10px 30px;
+    border-radius: 5px;
+    margin-bottom: 100px;
+}
+.half-width-image{
+    width: 40%;
+    float: right;
+    margin-right: 10%;
+}
+.half-width-image img{
+    width: 100%;
+}
+
+.section-2{
+    height: 100vh;
+}
+.half-width2-image{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+.half-width2-image img{
+    width: 100%;
+}
+.half-width2-content{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 8%;
+    padding-left: 2%;
+}
+.half-width2-content h1{
+    font-size: 48px;
+}
+.link-button2{
+    text-decoration: none;
+    background-image: linear-gradient(to bottom, #FF8063 , #F46060);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 100px;
+}
+
+.section-3{
+    height: 100vh;
+}
+.heading h1{
+    height: 10%;
+    width: 100%;
+    text-align: middle;
+    font-size: 40px;
+    margin-left: 35%;
+    padding-bottom: 5%;
+}
+.heading #red-color{
+    color: #fa3131;
+}
+.image-box{
+    width: 100%;
+    height: 60%;
+    float: left;
+    margin-left: 11%;
+ 
+}
+.image-box .image-box-1{
+    width: 25%;
+    height: 60%;
+    float: left;
+    padding: 1%;
+}
+.image-box .image-box-1 img{
+    width: 100%;
+}
+.image-box .image-box-2{
+    width: 25%;
+    height: 60%;
+    float: left;
+    padding: 1%;
+}
+.image-box .image-box-2 img{
+    width: 100%;
+}
+.image-box .image-box-3{
+    width: 25%;
+    height: 60%;
+    float: left;
+    padding: 1%;
+}
+.image-box .image-box-3 img{
+    width: 100%;
+}
+.image-box-1 .h3{
+   color: #b94d05;
+}
+
+
+
+
+.under{
+    height: 100vh;
+}
+.u-content15{
+    margin-left: 19%;
+    width: 100%;
+    height: 15%;
+    color: #F46060;
+    width: 60%;
+    margin-bottom: 5%;
+}
+.u-content15 h1{
+    font-size: 60px;
+    line-height: 0px;
+    color: #F46060;
+}
+.u-box60{
+    width: 100%;
+    height: 60%;
+    margin-left: 18%;
+}
+.u-box60 .u-b1{
+    color: #F46060;
+    width: 10% ;
+    height: 70%;
+    float: left;
+    background-image: linear-gradient(180deg, #1f2951, #141a33);
+    margin: 1%;
+    padding: 20px;
+}
+.u-box60 .u-b2{
+    color: #F46060;
+    width: 10% ;
+    height: 70%;
+    float: left;
+    background-image: linear-gradient(180deg, #1f2951, #141a33);
+    margin: 1%;
+    padding: 20px;
+}
+.u-box60 .u-b3{
+    color: #F46060;
+    width: 10% ;
+    height: 70%;
+    float: left;
+    background-image: linear-gradient(180deg, #1f2951, #141a33);
+    margin: 1%;
+    padding: 20px;
+}
+.u-box60 .u-b4{
+    color: #F46060;
+    width: 10% ;
+    height: 70%;
+    float: left;
+    background-image: linear-gradient(180deg, #1f2951, #141a33);
+    margin: 1%;
+    padding: 20px;
+}
+footer p{
+    color:#141a33 ;
+    text-align: center;
+    font-size: 14px;
+}
+.u-box60 p{
+    color: white;
+}
+
+.last  {
+    height: 40vh;
+}
+.last .bg{
+    height: 15%;
+    width: 60%;
+     background-image: url(image/image6.png);
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 19%;
+}
+.bg .work h1{
+    margin-left: 5%;
+    padding-top: 10%;
+    color: white;
+
+}
+.bg .button{
+    text-decoration: none;
+    background-image: linear-gradient(to bottom, #FF8063 , #F46060);
+    color: white;
+    width: 10%;
+    padding: 10px 20px;
+    border-radius: 10px;
+   float: right;
+ 
+    
+}
+.bg .button a{
+    text-decoration: none;
+    color: white;
+    padding-bottom: 50%;
+}
